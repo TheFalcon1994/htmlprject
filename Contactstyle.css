@@ -1,0 +1,10 @@
+.main{
+	position:right;
+	
+}
+input[type="text"] {
+    width: 200px;
+}
+.Query{
+	height:12.5em;
+}

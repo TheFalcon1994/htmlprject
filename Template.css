@@ -4,33 +4,33 @@ body{
 }
 div.banner {
 	float :left;
-	margin-left: 600px;
+	height: 6.25em;
+	width: 100%;
 	position:relative;
 }
 
 div.homeWrapper {
-	clear: left;
+	float: left;
 }
 
 h1 {
   font-family: Impact, Charcoal, sans-serif;
-  position: center;
+  text-align:center;
+  position: relative;
   font-size: 3em;
 }
 
 
 ul {
     list-style-type: none;
-    margin: 0;
-    padding: 0;
-    width: 200px;
+    width: 12.5em;
     background-color: black;
 }
 
 li a {
     display: block;
     color: white;
-    padding: 8px 16px;
+    padding: 0.5em 1em;
     text-decoration: none;
 }
 

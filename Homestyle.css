@@ -1,12 +1,14 @@
-div.imageslideshow {
-	float: right;
-	margin-left: 100px;
-    padding-left: 100px;
+.imageSlideShow {
+	position: right;
 }
-div.main{
-	clear: left;
-	margin-left: 200px;
-	padding-left: 200px;
-	position:relative;
+.main{
+	
+	position:center;
+}
+h3{
+	text-align: center;
+}
+p{
+	text-align: center;
 }
 
