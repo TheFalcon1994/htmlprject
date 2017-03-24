@@ -1,9 +1,10 @@
 .imageSlideShow {
-	position: right;
+	float: right;
+	width: 80%;
 }
 .main{
 	
-	position:center;
+	clear: both;
 }
 h3{
 	text-align: center;

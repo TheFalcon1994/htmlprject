@@ -1,5 +1,7 @@
 .main{
-	position:right;
+	float: right;
+	width: 60%;
+	margin-right: 18em;
 }
 h2{
 	text-align: center;

@@ -1,10 +1,14 @@
 .main{
-	position:right;
-	
+	float:right;
+	width: 62%;
 }
 input[type="text"] {
-    width: 200px;
+    width: 30em;
 }
 .Query{
 	height:12.5em;
 }
+.submit{
+	margin-left: 10em;
+}
+

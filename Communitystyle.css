@@ -1,5 +1,8 @@
 .main{
-	position:right;
+	margin-top: 2em;
+	float: right;
+	width: 65%;
+	height: 20%;
 }
 h3{
 	text-align: center;

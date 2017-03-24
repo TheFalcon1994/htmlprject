@@ -1,15 +1,19 @@
 .mediaSlideShow {
-	position: right;
+	float: right;
+	width: 80%;
 }
 .mediaVideos{
-	position: center;
+	clear:both;
 }
 .main{
 	
-	position:center;
+	clear:both;
 }
 h3{
 	text-align: center;
+}
+.inGamePictures{
+	margin-right:15em;
 }
 p{
 	text-align: center;

@@ -3,26 +3,34 @@ body{
 	color:white;
 }
 div.banner {
-	float :left;
 	height: 6.25em;
 	width: 100%;
-	position:relative;
+	border-style:solid;
+	border-color:red;
+	border-width:medium;
 }
 
 div.homeWrapper {
 	float: left;
+	width: 15%;
+	border-style:solid;
+	border-color:red;
+	border-width:medium;
 }
+
 
 h1 {
   font-family: Impact, Charcoal, sans-serif;
   text-align:center;
-  position: relative;
+  margin-bottom: 2em;
   font-size: 3em;
 }
 
 
 ul {
     list-style-type: none;
+	margin: 0em;
+	padding: 0em;
     width: 12.5em;
     background-color: black;
 }
