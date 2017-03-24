@@ -2,9 +2,20 @@ body{
 	background-color: black;
 	color:white;
 }
+div.banner {
+	float :left;
+	margin-left: 600px;
+	position:relative;
+}
+
+div.homeWrapper {
+	clear: left;
+}
 
 h1 {
   font-family: Impact, Charcoal, sans-serif;
+  position: center;
+  font-size: 3em;
 }
 
 

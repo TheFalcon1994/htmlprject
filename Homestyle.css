@@ -1,0 +1,12 @@
+div.imageslideshow {
+	float: right;
+	margin-left: 100px;
+    padding-left: 100px;
+}
+div.main{
+	clear: left;
+	margin-left: 200px;
+	padding-left: 200px;
+	position:relative;
+}
+

@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en-gb" xml:lang="en-gb" xmlns="http://www.w3.org/1999/xhtml">
 <head>
@@ -29,7 +30,8 @@
 </div>
 
 <div class = "main">
-	<form action="/action_page.php">
+<!--code within google apps script writen by Martin Hawksey who shared it on stack exchange at: http://stackoverflow.com/questions/7449767/how-do-i-send-an-html-form-in-an-email-not-just-mailto, email arrives at my dmu email-->
+	<form id= "contactform" method ="POST" action="https://script.google.com/macros/s/AKfycbzG_nz3zAfvZSuAfIXyDC_biqRh5ekmnARqehV0mSU2OKJ3mYM/exec">
 		First name:<br>
 		<input type="text" name="firstname" value="Arthur"><br>
 		Last name:<br>
@@ -39,6 +41,7 @@
 		Query:<br>
 		<input type="text" name="Query" value="What is the terminal velocity of an unladen swallow?"><br><br>
 		<input type="submit" value="Submit">
+		
 </form>
 
 
@@ -46,4 +49,3 @@
 </div>
 
 </body>
-</html>
